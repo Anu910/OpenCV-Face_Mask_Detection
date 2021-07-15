@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import matplotlib as plt
+#import matplotlib as plt
 
 capture=cv2.VideoCapture(0)
 data=[]
